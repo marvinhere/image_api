@@ -11,6 +11,6 @@ http://localhost:8000/api/photos/{topic}?width=3840&height=2160
 
 ### Get random images with a limit
 http://localhost:8000/api/photos/random?lim=5
-(limit between 1-5)
+(limit between 1-50)
 <br><br>
 *You can read test.sql to understand the database structure
